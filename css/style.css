@@ -883,7 +883,7 @@ a.cd-read-more:hover{text-decoration:none; background-color: #424242;  }
   }
 
   .custom-navbar .navbar-brand img{
-    width: 30px;
+    height: 30px;
   }
   .custom-navbar {
     padding: 5px;
